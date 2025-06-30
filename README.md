@@ -1,2 +1,1 @@
-# sleep-disorder-predictiion
-Logistic regression modeling using SAS to predict the likelihood of sleep disorders based on lifestyle and biometric data.
+This project explores the relationship between biometric and lifestyle factors and the presence of sleep disorders. Built using SAS, the logistic regression model identified BMI as a strong predictor. The analysis includes model fit evaluation, hypothesis testing, and variable significance interpretation.
